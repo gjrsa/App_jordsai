@@ -21,3 +21,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 # App_jordsai
 # App_jordsai
 "# APP_1234" 
+"# APP_1234" 
